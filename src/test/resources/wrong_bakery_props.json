@@ -1,0 +1,15 @@
+[
+  {
+    "wrong_name_key": "Vegemite Scroll",
+    "packs": [
+      {
+        "items": 3,
+        "price": 6.99
+      },
+      {
+        "items": 5,
+        "price": 8.99
+      }
+    ]
+  }
+]
